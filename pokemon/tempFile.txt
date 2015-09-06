@@ -1,0 +1,23 @@
+Charmander 4
+
+Charmeleon 5
+
+Charizard 6
+
+Vulpix 37
+
+Ninetales 38
+
+Growlithe 58
+
+Arcanine 59
+
+Ponyta 77
+
+Rapidash 78
+
+Magmar 126
+
+Flareon 136
+
+Moltres 146

@@ -1,0 +1,46 @@
+Missingno 0
+
+Pidgey 16
+
+Pidgeotto 17
+
+Pidgeot 18
+
+Rattata 19
+
+Raticate 20
+
+Spearow 21
+
+Fearow 22
+
+Clefairy 35
+
+Clefable 36
+
+Wigglytuff 40
+
+Meowth 52
+
+Persian 53
+
+Doduo 84
+
+Dodrio 85
+
+Lickitung 108
+
+Chansey 113
+
+Kangaskhan 115
+
+Tauros 128
+
+Ditto 132
+
+Eevee 133
+
+Porygon 137
+
+Snorlax 143
+

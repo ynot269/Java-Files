@@ -1,0 +1,24 @@
+Caterpie 10
+
+Metapod 11
+
+Butterfree 12
+
+Weedle 13
+
+Kakuna 14
+
+Beedrill 15
+
+Paras 46
+
+Parasect 47
+
+Venonat 48
+
+Venomoth 49
+
+Scyther 123
+
+Pinsir 127
+

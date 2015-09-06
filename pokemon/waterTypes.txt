@@ -1,0 +1,58 @@
+Squirtle 7
+
+Wartortle 8
+
+Blastoise 9
+
+Psyduck 54
+
+Golduck 55
+
+Poliwag 60
+
+Poliwhirl 61
+
+Poliwrath 62
+
+Tentacool 72
+
+Tentacruel 73
+
+Slowpoke 79
+
+Slowbro 80
+
+Seel 86
+
+Dewgong 87
+
+Shellder 90
+
+Cloyster 91
+
+Krabby 98
+
+Kingler 99
+
+Horsea 116
+
+Seadra 117
+
+Goldeen 118
+
+Seaking 119
+
+Staryu 120
+
+Starmie 121
+
+Magikarp 129
+
+Gyarados 130
+
+Lapras 131
+
+Vaporeon 134
+
+Articuno 144
+

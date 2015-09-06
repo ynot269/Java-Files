@@ -1,0 +1,24 @@
+Bulbasaur 1
+
+Ivysaur 2
+
+Venusaur 3
+
+Oddish 43
+
+Gloom 44
+
+Vileplume 45
+
+Bellsprout 69
+
+Weepinbell 70
+
+Victreebel 71
+
+Exeggcute 102
+
+Exeggutor 103
+
+Tangela 114
+

@@ -1,0 +1,28 @@
+Ekans 23
+
+Arbok 24
+
+Nidoran 29
+
+Nidorina 30
+
+Nidoqueen 31
+
+Nidoran 32
+
+Nidorino 33
+
+Nidoking 34
+
+Zubat 41
+
+Golbat 42
+
+Grimer 88
+
+Muk 89
+
+Koffing 109
+
+Weezing 110
+

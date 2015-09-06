@@ -1,0 +1,18 @@
+Pikachu 25
+
+Raichu 26
+
+Magnemite 81
+
+Magneton 82
+
+Voltorb 100
+
+Electrode 101
+
+Electabuzz 125
+
+Jolteon 135
+
+Zapdos 145
+
